@@ -27,5 +27,5 @@ Follow these to get started.
     4.) Mayon Volcano ... is the most perfect cone volcano in the world.
     5.) Mountt Taal ... is the world's smallest active volcano.
 
-### Run the following command to run the project:
+### Execute the following command to run the project:
     node app.js
