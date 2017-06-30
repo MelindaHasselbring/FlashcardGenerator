@@ -17,7 +17,7 @@ module.exports = ClozeFlashcard;
 function ClozeFlashcard(text, cloze) {
     this.text = text;
     this.cloze = cloze;
-    this.clozeDeleted = this.text.replace(this.cloze, '_____');
+    this.clozeDeleted = this.text.replace(this.cloze, ' ... ');
     this.create = function() {
         var data = {
             text: this.text,
