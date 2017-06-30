@@ -13,7 +13,7 @@ Run the following command to install all dependencies
 Install production dependencies using this command
 npm install inquirer --save
 
-The following basic cards was created: 
+##The following basic cards was created: 
     1.) Who was the first president of the United States?           George Washington
     2.) What was a global war that lasted from 1939 to 1945?        World War II
     3.) Which president is printed in 50 dollar bill?               Ulysses Grant
@@ -22,5 +22,5 @@ The following basic cards was created:
     6.) Theodore Roosevelt ... was the youngest person to be elected president of the United States.
     7.) Donald Trump ... is the oldest person to be elected president of the United States.
 
-Run the following command to run the project:
+##Run the following command to run the project:
     node app.js
