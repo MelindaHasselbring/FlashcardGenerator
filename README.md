@@ -25,7 +25,7 @@ Follow these to get started.
     2.) Donald Trump ... is the oldest person to be elected president of the United States.
     3.) Tri-State Tornado ... was the deadliest tornado in U.S. history
     4.) Mayon Volcano ... is the most perfect cone volcano in the world.
-    5.) Mountt Taal ... is the world's smallest active volcano.
+    5.) Mount Taal ... is the world's smallest active volcano.
 
 ### Execute the following command to run the project:
     node app.js
