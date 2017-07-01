@@ -6,8 +6,8 @@ Follow these to get started.
 
 ## Installation Instructions:
 
-### Run the following command to install all dependencies
-    pm init
+### Run the following command to initialize npm and install all dependencies
+    npm init
     npm install
 
 ### Install production dependencies using this command
